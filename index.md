@@ -1,6 +1,3 @@
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script>
-<noscript>
-
 # How this works
 
 Glad you could make it! You've probably already figured out how to move around with the WASD and
@@ -29,4 +26,3 @@ There are some multiplayer games in the living room area (Tetris, draw battle, f
 on the patio out back. To play, walk over and press `x`.
 
 ![ox](https://github.com/michael-yx-wu/gather-bulletin/raw/master/ox.jpg)
-</noscript>
