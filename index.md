@@ -7,7 +7,7 @@ arrow keys.
 
 You can change your avatar and outfit by clicking on this button at the bottom of the screen:
 
-![character](https://github.com/michael-yx-wu/gather-bulletin/raw/master/character.jpg)
+![character](https://media.githubusercontent.com/media/michael-yx-wu/gather-bulletin/master/character.png)
 
 ## Public and private spaces
 
@@ -25,4 +25,4 @@ inside the house.
 There are some multiplayer games in the living room area (Tetris, draw battle, fishbowl). Poker is
 on the patio out back. To play, walk over and press `x`.
 
-![ox](https://github.com/michael-yx-wu/gather-bulletin/raw/master/ox.jpg)
+![ox](https://media.githubusercontent.com/media/michael-yx-wu/gather-bulletin/master/ox.jpg)
